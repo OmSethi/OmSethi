@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Om 👋
 
 <!--
 **OmSethi/OmSethi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a junior studying CS at the University at Buffalo with a interest in AI and full-stack development. Experienced in building machine learning workflows, multi-agent applications, and mobile apps that combine data and usability. Passionate about building tools that have impact.
+Outside of tech, I’m 6’5 — just as good at debugging code as I am at grabbing things off the top shelf. When im not coding, you can usually find me playing volleyball or watching F1 every weekend. I also love music — check out my current favorite song below!
