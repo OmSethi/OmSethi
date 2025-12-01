@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a junior studying CS at the University at Buffalo with a interest in AI and full-stack development. Experienced in building machine learning workflows, multi-agent applications, and mobile apps that combine data and usability. Passionate about building tools that have impact. When im not coding, you can usually find me playing volleyball, watching F1 every weekend, and always listening to music!
+I'm a junior studying CS at the University at Buffalo with a interest in AI and full-stack development. Experienced in building machine learning workflows, multi-agent applications, and mobile apps that combine data and usability. Building tools that have impact. When im not coding, you can usually find me playing volleyball, watching F1 every weekend, and always listening to music!
